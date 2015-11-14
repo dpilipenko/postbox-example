@@ -3,8 +3,8 @@
 import java.io.IOException;
 import java.util.Properties;
 
-import postbox.PostBox;
-import postbox.interfaces.IListener;
+import com.dpilipenko.postbox.IListener;
+import com.dpilipenko.postbox.PostBox;
 
 public class Main {
 

@@ -5,7 +5,7 @@ import java.io.InputStream;
 
 import org.subethamail.smtp.TooMuchDataException;
 
-import postbox.interfaces.IListener;
+import com.dpilipenko.postbox.IListener;
 
 public class PostBoxExampleListener implements IListener {
 
